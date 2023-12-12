@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"fr.univlille.iutinfo.game"},{"l":"fr.univlille.iutinfo.utils"},{"l":"fr.univlille.iutinfo.view"}];updateSearchResults();
