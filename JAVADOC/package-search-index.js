@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"fr.univlille.iutinfo"},{"l":"fr.univlille.iutinfo.game"},{"l":"fr.univlille.iutinfo.strategy"},{"l":"fr.univlille.iutinfo.utils"},{"l":"fr.univlille.iutinfo.view"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"fr.univlille.iutinfo"},{"l":"fr.univlille.iutinfo.game"},{"l":"fr.univlille.iutinfo.strategy"},{"l":"fr.univlille.iutinfo.utils"}];updateSearchResults();
